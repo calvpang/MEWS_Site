@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "posts/2022-10-01-MoonGlobe/index.html",
-    "href": "posts/2022-10-01-MoonGlobe/index.html",
+    "objectID": "posts/2022-10-01-SpaceApps/index.html",
+    "href": "posts/2022-10-01-SpaceApps/index.html",
+    "title": "Make a Moonquake Map!",
+    "section": "",
+    "text": "Detailed Project Description\n\n\nSpace Agency Data\n\n\nHackathon Journey\n\n\nReferences"
+  },
+  {
+    "objectID": "posts/2022-10-02-MEWS/index.html",
+    "href": "posts/2022-10-02-MEWS/index.html",
     "title": "Moon Emergency Warning System (MEWS)",
     "section": "",
-    "text": "Project Brief\n\n\nMoonquake Globe\nThis is a post with executable code."
+    "text": "3D Moonquake Map\n\n\n\n\n\n\nUI Elements\n\n\nVideo"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NASA SpaceApps 2022 - Moonquake Challenge",
+    "title": "NASA International Space Apps Challenge 2022",
     "section": "",
-    "text": "Oct 1, 2022\n\n\nCalvin Pang, Leigh Tyers, Nick Swainston, Paul Hancock, Trish Radotic, Theodora Hancock\n\n\n\n\n\n\nNo matching items"
+    "text": "Oct 2, 2022\n\n\nCalvin Pang, Leigh Tyers, Nick Swainston, Paul Hancock, Trish Radotic, Theodora Hancock\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\nCalvin Pang, Leigh Tyers, Nick Swainston, Paul Hancock, Trish Radotic, Theodora Hancock\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The Flat Moon Society (AUS) are competing in the Moonquake Map Challenge for the 2022 NASA SpaceApps Challenge and present to you, a 3D map of the moon!"
+    "text": "The Flat Moon Society (AUS) are competing in “Make a Moonquake Map!” for the NASA Space Apps Challenge 2022 and present Moon Emergency Warning System (MEWS), featuring a 3D map of the moon!"
   },
   {
     "objectID": "about.html#team-members",
