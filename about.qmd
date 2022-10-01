@@ -13,4 +13,4 @@ about:
 
 ---
 
-The Flat Moon Society (Aus) are competing in the Moonquake Map Challenge for the 2022 NASA SpaceApps Challenge and present to you, a 3D map of the moon!
+The Flat Moon Society (AUS) are competing in the Moonquake Map Challenge for the 2022 NASA SpaceApps Challenge and present to you, a 3D map of the moon!

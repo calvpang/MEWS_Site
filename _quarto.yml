@@ -10,7 +10,7 @@ website:
         href: https://github.com/calvpang/FMS_Moonquake
 format:
   html:
-    theme: darkly
+    theme: flatly
     css: styles.css
 
 
