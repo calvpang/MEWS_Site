@@ -9,11 +9,11 @@ about:
       href: https://www.linkedin.com/company/curtin-institute-for-computation/mycompany/
     - icon: github
       text: Github
-      href: https://github.com/calvpang/FMS_Moonquake
+      href: https://github.com/calvpang/MEWS
 
 ---
 
-The Flat Moon Society (AUS) are competing in the Moonquake Map Challenge for the 2022 NASA SpaceApps Challenge and present to you, a 3D map of the moon!
+The Flat Moon Society (AUS) are competing in "Make a Moonquake Map!" for the NASA Space Apps Challenge 2022 and present Moon Emergency Warning System (MEWS), featuring a 3D map of the moon!
 
 ## Team Members
 [Calvin Pang](https://www.linkedin.com/in/calv-pang/)

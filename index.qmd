@@ -1,5 +1,5 @@
 ---
-title: "NASA SpaceApps 2022 - Moonquake Challenge"
+title: "NASA International Space Apps Challenge 2022"
 listing:
   contents: posts
   sort: "date desc"

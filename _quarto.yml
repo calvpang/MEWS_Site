@@ -7,7 +7,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/calvpang/FMS_Moonquake
+        href: https://github.com/calvpang/MEWS
 format:
   html:
     theme: flatly
