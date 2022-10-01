@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/curtin-institute-for-computation/mycompany/
+    - icon: github
+      text: Github
+      href: https://github.com/calvpang/FMS_Moonquake
+
+---
+
+The Flat Moon Society (Aus) are competing in the Moonquake Map Challenge for the 2022 NASA SpaceApps Challenge and present to you, a 3D map of the moon!
