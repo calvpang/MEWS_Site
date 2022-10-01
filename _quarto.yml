@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "NASA Moonquake Challenge 2022"
+  title: "Flat Moon Society (AUS)"
   navbar:
     right:
       - about.qmd
