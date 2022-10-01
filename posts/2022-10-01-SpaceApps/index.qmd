@@ -8,6 +8,7 @@ image: "NASA_Space_Apps_Logo_Black.png"
 # High-Level Project Summary
 
 [MEWS Repository](https://github.com/calvpang/MEWS)
+
 [MEWS Demo](https://calvpang.github.io/MEWS_Site/posts/2022-10-02-MEWS/)
 
 # Detailed Project Description
