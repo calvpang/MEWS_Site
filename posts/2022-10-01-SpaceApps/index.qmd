@@ -70,6 +70,7 @@ To get our creative juices flowing, we spent some time deciding on a team name. 
 Throughout the weekend we would meet to review progress and modify or remove project components based on the time and data available to us. Discussion with mentors, previous participants, and other current teams was often a good way to get an external view on the work we were doing and helped to limit our scope creep.
 
 Our team chose the **moonquakes challenge** as it allows us to address many of the problems that we commonly see with public data sources. Many people and organisations want to provide access to their data for a variety of reasons. However, there are some common problems that users will encounter when trying to work with these data:
+
 - Multiple data sources: There is no single place which hosts all the relevant data. People need to search multiple locations to download or upload data.
 - Heterogeneous data: Each data source hosts data in a different format, and has different methods for retrieving the data.
 - Accessibility: Though the data may be available, it can be hard to understand and work with due to lack of visualisation and exploration tools, and data documentation that is written for mission specialists rather than end users.
